@@ -1,5 +1,6 @@
 # Функция с параметрами по умолчанию:
 def print_params(a = 1, b = 'строка', c = True):
+    a = str(a)
     print(print_params)
     return
 
