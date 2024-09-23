@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4a403a2-8a13-4cb9-8a05-ff36509ebe63" name="Changes" comment="ДЗ &quot;Пространство имен&quot; ур 3">
-      <change afterPath="$PROJECT_DIR$/../Module_3. Подробнее о функциях/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Module_3. Подробнее о функциях/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Module_3. Подробнее о функциях/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Module_3. Подробнее о функциях/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Module_3. Подробнее о функциях/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Module_3. Подробнее о функциях/main.py" afterDir="false" />
+    <list default="true" id="d4a403a2-8a13-4cb9-8a05-ff36509ebe63" name="Changes" comment="ДЗ &quot;Способы вызова функции&quot;, Задача &quot;Рассылка писем&quot;">
+      <change beforePath="$PROJECT_DIR$/../Module_3. Подробнее о функциях/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module_3. Подробнее о функциях/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,18 +33,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Module_3_1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson_func_with_params.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Module_3.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Module_3.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Module_3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3.1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.vebinar_18.09._function.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Module_3. Подробнее о функциях" />
@@ -106,12 +107,49 @@
       <option name="project" value="LOCAL" />
       <updated>1726598314245</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ДЗ &quot;Пространство имен&quot; ур 3">
+      <option name="closed" value="true" />
+      <created>1726599163939</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726599163939</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ДЗ &quot;Пространство имен&quot; ур 3">
+      <option name="closed" value="true" />
+      <created>1726655760546</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726655760546</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ДЗ &quot;Способы вызова функции&quot;, Задача &quot;Рассылка писем&quot;">
+      <option name="closed" value="true" />
+      <created>1727073762274</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727073762274</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ДЗ &quot;Пространство имен&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ &quot;Пространство имен&quot;" />
+    <MESSAGE value="ДЗ &quot;Пространство имен&quot; ур 3" />
+    <MESSAGE value="ДЗ &quot;Способы вызова функции&quot;, Задача &quot;Рассылка писем&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ &quot;Способы вызова функции&quot;, Задача &quot;Рассылка писем&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -120,6 +158,16 @@
           <url>file://$PROJECT_DIR$/../Module_3. Подробнее о функциях/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Module_3. Подробнее о функциях/module_3.1.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Module_3. Подробнее о функциях/Vebinar_18/vebinar_18.09._function.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
